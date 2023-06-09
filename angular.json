@@ -16,7 +16,6 @@
             "outputPath": "dist/dio_buzzfeed",
             "index": "src/index.html",
             "main": "src/main.ts",
-            "baseHref": "https://vonhappatsch.github.io/buzzfeed_quizz_sailormoon_dio/",
             "polyfills": [
               "zone.js"
             ],
@@ -31,6 +30,9 @@
             "scripts": []
           },
           "configurations": {
+            "github-pages": {
+              "baseHref": "/buzzfeed_quizz_sailormoon_dio/"
+            },
             "production": {
               "budgets": [
                 {
@@ -44,7 +46,7 @@
                   "maximumError": "4kb"
                 }
               ],
-              "outputHashing": "all"
+              "outputHashing": "all",
             },
             "development": {
               "buildOptimizer": false,
