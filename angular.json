@@ -16,6 +16,7 @@
             "outputPath": "dist/dio_buzzfeed",
             "index": "src/index.html",
             "main": "src/main.ts",
+            "baseHref": "https://vonhappatsch.github.io/buzzfeed_quizz_sailormoon_dio/",
             "polyfills": [
               "zone.js"
             ],
