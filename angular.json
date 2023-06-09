@@ -16,7 +16,6 @@
             "outputPath": "dist/dio_buzzfeed",
             "index": "src/index.html",
             "main": "src/main.ts",
-            "baseHref" : "/v2/",
             "polyfills": [
               "zone.js"
             ],
@@ -44,7 +43,7 @@
                   "maximumError": "4kb"
                 }
               ],
-              "outputHashing": "all",
+              "outputHashing": "all"
             },
             "development": {
               "buildOptimizer": false,
