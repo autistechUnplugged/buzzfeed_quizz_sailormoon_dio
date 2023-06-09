@@ -16,6 +16,7 @@
             "outputPath": "dist/dio_buzzfeed",
             "index": "src/index.html",
             "main": "src/main.ts",
+            "baseHref" : "/v2/",
             "polyfills": [
               "zone.js"
             ],
@@ -30,9 +31,6 @@
             "scripts": []
           },
           "configurations": {
-            "github-pages": {
-              "baseHref": "/buzzfeed_quizz_sailormoon_dio/"
-            },
             "production": {
               "budgets": [
                 {
