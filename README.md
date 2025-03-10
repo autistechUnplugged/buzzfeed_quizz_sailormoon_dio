@@ -1,6 +1,6 @@
 # DioBuzzfeed
 
-Check it online [here](https://vonhappatsch.github.io/buzzfeed_quizz_sailormoon_dio/)!
+Check it online [here](https://autistechunplugged.github.io/buzzfeed_quizz_sailormoon_dio/)!
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
 
